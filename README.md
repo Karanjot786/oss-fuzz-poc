@@ -136,5 +136,3 @@ The `main.py` script serves as the CLI entry point, while the package can also b
 - **Tests**: A test suite in `tests/test_coverage_analysis.py` uses `pytest` to verify functionality (run with `pytest` after installing `pytest`).
 - **Config**: `pyproject.toml` defines dependencies and metadata, following modern Python standards.
 
-For contributions or feedback, see the full repository: [GitHub link](https://github.com/karanjot786/).
-
