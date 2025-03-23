@@ -1,0 +1,759 @@
+{
+    "metadata": {
+        "zlib": [
+            {
+                "name": "Dockerfile",
+                "path": "projects/zlib/Dockerfile",
+                "sha": "be1cb4c65c067d5e729caaffb5f9660b93582180",
+                "size": 886,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/Dockerfile?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/Dockerfile",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/be1cb4c65c067d5e729caaffb5f9660b93582180",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/Dockerfile",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/Dockerfile?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/be1cb4c65c067d5e729caaffb5f9660b93582180",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/Dockerfile"
+                }
+            },
+            {
+                "name": "build.sh",
+                "path": "projects/zlib/build.sh",
+                "sha": "316b7cb6bb891726f44508c39de3557d4ec49d32",
+                "size": 1218,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/build.sh?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/build.sh",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/316b7cb6bb891726f44508c39de3557d4ec49d32",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/build.sh",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/build.sh?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/316b7cb6bb891726f44508c39de3557d4ec49d32",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/build.sh"
+                }
+            },
+            {
+                "name": "checksum_fuzzer.c",
+                "path": "projects/zlib/checksum_fuzzer.c",
+                "sha": "b22b8f4af293bd1b702e6f31bf753e7cc733ccf7",
+                "size": 2016,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/checksum_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/checksum_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/b22b8f4af293bd1b702e6f31bf753e7cc733ccf7",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/checksum_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/checksum_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/b22b8f4af293bd1b702e6f31bf753e7cc733ccf7",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/checksum_fuzzer.c"
+                }
+            },
+            {
+                "name": "compress_fuzzer.c",
+                "path": "projects/zlib/compress_fuzzer.c",
+                "sha": "29d9f1e76caa26758fbbd439a3695fb2d89dec56",
+                "size": 3144,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/compress_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/compress_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/29d9f1e76caa26758fbbd439a3695fb2d89dec56",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/compress_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/compress_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/29d9f1e76caa26758fbbd439a3695fb2d89dec56",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/compress_fuzzer.c"
+                }
+            },
+            {
+                "name": "example_dict_fuzzer.c",
+                "path": "projects/zlib/example_dict_fuzzer.c",
+                "sha": "10b20b3c74b6218c89f1bc7574f6bc955e6ccf36",
+                "size": 4834,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_dict_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_dict_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/10b20b3c74b6218c89f1bc7574f6bc955e6ccf36",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/example_dict_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_dict_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/10b20b3c74b6218c89f1bc7574f6bc955e6ccf36",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_dict_fuzzer.c"
+                }
+            },
+            {
+                "name": "example_flush_fuzzer.c",
+                "path": "projects/zlib/example_flush_fuzzer.c",
+                "sha": "63ea5b1418fbdabea305789da99a0af44609861e",
+                "size": 3844,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_flush_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_flush_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/63ea5b1418fbdabea305789da99a0af44609861e",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/example_flush_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_flush_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/63ea5b1418fbdabea305789da99a0af44609861e",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_flush_fuzzer.c"
+                }
+            },
+            {
+                "name": "example_large_fuzzer.c",
+                "path": "projects/zlib/example_large_fuzzer.c",
+                "sha": "94938d3ad09517270e6c55bb994714329bbe7262",
+                "size": 3817,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_large_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_large_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/94938d3ad09517270e6c55bb994714329bbe7262",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/example_large_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_large_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/94938d3ad09517270e6c55bb994714329bbe7262",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_large_fuzzer.c"
+                }
+            },
+            {
+                "name": "example_small_fuzzer.c",
+                "path": "projects/zlib/example_small_fuzzer.c",
+                "sha": "11e9657b71917021312461a5f90ac235c70084a3",
+                "size": 3018,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_small_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_small_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/11e9657b71917021312461a5f90ac235c70084a3",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/example_small_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/example_small_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/11e9657b71917021312461a5f90ac235c70084a3",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/example_small_fuzzer.c"
+                }
+            },
+            {
+                "name": "gzio_fuzzer.c",
+                "path": "projects/zlib/gzio_fuzzer.c",
+                "sha": "5ac05342bd35724477384333ee48539181b10ae5",
+                "size": 6052,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/gzio_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/gzio_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/5ac05342bd35724477384333ee48539181b10ae5",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/gzio_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/gzio_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/5ac05342bd35724477384333ee48539181b10ae5",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/gzio_fuzzer.c"
+                }
+            },
+            {
+                "name": "minigzip_fuzzer.c",
+                "path": "projects/zlib/minigzip_fuzzer.c",
+                "sha": "d124e634b4e97aeffe74a4952196f87998d9c760",
+                "size": 12426,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/minigzip_fuzzer.c?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/minigzip_fuzzer.c",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/d124e634b4e97aeffe74a4952196f87998d9c760",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/minigzip_fuzzer.c",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/minigzip_fuzzer.c?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/d124e634b4e97aeffe74a4952196f87998d9c760",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/minigzip_fuzzer.c"
+                }
+            },
+            {
+                "name": "project.yaml",
+                "path": "projects/zlib/project.yaml",
+                "sha": "d301993f86a5f77dbb0039abb65c30349600062c",
+                "size": 327,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/project.yaml?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/project.yaml",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/d301993f86a5f77dbb0039abb65c30349600062c",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/project.yaml",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/project.yaml?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/d301993f86a5f77dbb0039abb65c30349600062c",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/project.yaml"
+                }
+            },
+            {
+                "name": "zlib_uncompress2_fuzzer.cc",
+                "path": "projects/zlib/zlib_uncompress2_fuzzer.cc",
+                "sha": "28e8d1857db196c4fa55d31a1b073077695f2229",
+                "size": 428,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/zlib_uncompress2_fuzzer.cc?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib_uncompress2_fuzzer.cc",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/28e8d1857db196c4fa55d31a1b073077695f2229",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/zlib_uncompress2_fuzzer.cc",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/zlib_uncompress2_fuzzer.cc?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/28e8d1857db196c4fa55d31a1b073077695f2229",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib_uncompress2_fuzzer.cc"
+                }
+            },
+            {
+                "name": "zlib_uncompress_fuzzer.cc",
+                "path": "projects/zlib/zlib_uncompress_fuzzer.cc",
+                "sha": "808793b8676e54018f096da1d75208704c60908c",
+                "size": 595,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/zlib_uncompress_fuzzer.cc?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib_uncompress_fuzzer.cc",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/808793b8676e54018f096da1d75208704c60908c",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/zlib/zlib_uncompress_fuzzer.cc",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/zlib/zlib_uncompress_fuzzer.cc?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/808793b8676e54018f096da1d75208704c60908c",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/zlib/zlib_uncompress_fuzzer.cc"
+                }
+            }
+        ],
+        "libpng": [
+            {
+                "name": "Dockerfile",
+                "path": "projects/libpng/Dockerfile",
+                "sha": "6f281cd55ee92ce4b28183f5cc5c8962b3946f55",
+                "size": 971,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/libpng/Dockerfile?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/libpng/Dockerfile",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/6f281cd55ee92ce4b28183f5cc5c8962b3946f55",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/libpng/Dockerfile",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/libpng/Dockerfile?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/6f281cd55ee92ce4b28183f5cc5c8962b3946f55",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/libpng/Dockerfile"
+                }
+            },
+            {
+                "name": "project.yaml",
+                "path": "projects/libpng/project.yaml",
+                "sha": "61b40a76054f4cb3f13441dfb1efba9e1de5aa46",
+                "size": 445,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/libpng/project.yaml?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/libpng/project.yaml",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/61b40a76054f4cb3f13441dfb1efba9e1de5aa46",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/libpng/project.yaml",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/libpng/project.yaml?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/61b40a76054f4cb3f13441dfb1efba9e1de5aa46",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/libpng/project.yaml"
+                }
+            }
+        ],
+        "openssl": [
+            {
+                "name": "Dockerfile",
+                "path": "projects/openssl/Dockerfile",
+                "sha": "6532b06dce9040a07f82af99c6239986de9dd484",
+                "size": 1322,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/Dockerfile?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/Dockerfile",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/6532b06dce9040a07f82af99c6239986de9dd484",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/openssl/Dockerfile",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/Dockerfile?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/6532b06dce9040a07f82af99c6239986de9dd484",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/Dockerfile"
+                }
+            },
+            {
+                "name": "bignum.options",
+                "path": "projects/openssl/bignum.options",
+                "sha": "60bd9b0b2fa5c5f3589793030eeac07111535333",
+                "size": 27,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/bignum.options?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/bignum.options",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/60bd9b0b2fa5c5f3589793030eeac07111535333",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/openssl/bignum.options",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/bignum.options?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/60bd9b0b2fa5c5f3589793030eeac07111535333",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/bignum.options"
+                }
+            },
+            {
+                "name": "build.sh",
+                "path": "projects/openssl/build.sh",
+                "sha": "5ccdb14b6c757bdac99f127c828253ec9d5ed16b",
+                "size": 2926,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/build.sh?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/build.sh",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/5ccdb14b6c757bdac99f127c828253ec9d5ed16b",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/openssl/build.sh",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/build.sh?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/5ccdb14b6c757bdac99f127c828253ec9d5ed16b",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/build.sh"
+                }
+            },
+            {
+                "name": "project.yaml",
+                "path": "projects/openssl/project.yaml",
+                "sha": "25545e6dca377ba27146799b2042852e6a1f6d6d",
+                "size": 575,
+                "url": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/project.yaml?ref=master",
+                "html_url": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/project.yaml",
+                "git_url": "https://api.github.com/repos/google/oss-fuzz/git/blobs/25545e6dca377ba27146799b2042852e6a1f6d6d",
+                "download_url": "https://raw.githubusercontent.com/google/oss-fuzz/master/projects/openssl/project.yaml",
+                "type": "file",
+                "_links": {
+                    "self": "https://api.github.com/repos/google/oss-fuzz/contents/projects/openssl/project.yaml?ref=master",
+                    "git": "https://api.github.com/repos/google/oss-fuzz/git/blobs/25545e6dca377ba27146799b2042852e6a1f6d6d",
+                    "html": "https://github.com/google/oss-fuzz/blob/master/projects/openssl/project.yaml"
+                }
+            }
+        ]
+    },
+    "analysis": {
+        "zlib": {
+            "unique_crashes": 8,
+            "avg_coverage": 79.88888888888889,
+            "coverage_trend": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 70,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 73,
+                    "growth_rate": 4.285714285714293
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 75,
+                    "growth_rate": 2.7397260273972712
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 77,
+                    "growth_rate": 2.6666666666666616
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 80,
+                    "growth_rate": 3.8961038961038863
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 87,
+                    "growth_rate": 2.35294117647058
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 90,
+                    "growth_rate": 3.4482758620689724
+                }
+            ]
+        },
+        "libpng": {
+            "unique_crashes": 8,
+            "avg_coverage": 84.88888888888889,
+            "coverage_trend": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 75,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 78,
+                    "growth_rate": 4.0000000000000036
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 80,
+                    "growth_rate": 2.564102564102555
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 87,
+                    "growth_rate": 2.35294117647058
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 90,
+                    "growth_rate": 3.4482758620689724
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 92,
+                    "growth_rate": 2.2222222222222143
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 95,
+                    "growth_rate": 3.2608695652173836
+                }
+            ]
+        },
+        "openssl": {
+            "unique_crashes": 8,
+            "avg_coverage": 74.88888888888889,
+            "coverage_trend": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 65,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 68,
+                    "growth_rate": 4.615384615384621
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 70,
+                    "growth_rate": 2.941176470588225
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 72,
+                    "growth_rate": 2.857142857142847
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 75,
+                    "growth_rate": 4.166666666666674
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 77,
+                    "growth_rate": 2.6666666666666616
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 80,
+                    "growth_rate": 3.8961038961038863
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                }
+            ]
+        }
+    },
+    "raw_data": {
+        "zlib": {
+            "crashes": [
+                {
+                    "date": "15-01-2025",
+                    "crash_hash": "mno345",
+                    "type": "null-pointer"
+                },
+                {
+                    "date": "28-01-2025",
+                    "crash_hash": "pqr678",
+                    "type": "division-by-zero"
+                },
+                {
+                    "date": "31-01-2025",
+                    "crash_hash": "jkl012",
+                    "type": "integer-overflow"
+                },
+                {
+                    "date": "10-02-2025",
+                    "crash_hash": "stu901",
+                    "type": "buffer-overflow"
+                },
+                {
+                    "date": "20-02-2025",
+                    "crash_hash": "vwx234",
+                    "type": "race-condition"
+                },
+                {
+                    "date": "25-02-2025",
+                    "crash_hash": "ghi789",
+                    "type": "stack-overflow"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "def456",
+                    "type": "use-after-free"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                },
+                {
+                    "date": "15-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                }
+            ],
+            "coverage": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 70,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 73,
+                    "growth_rate": 4.285714285714293
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 75,
+                    "growth_rate": 2.7397260273972712
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 77,
+                    "growth_rate": 2.6666666666666616
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 80,
+                    "growth_rate": 3.8961038961038863
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 87,
+                    "growth_rate": 2.35294117647058
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 90,
+                    "growth_rate": 3.4482758620689724
+                }
+            ]
+        },
+        "libpng": {
+            "crashes": [
+                {
+                    "date": "15-01-2025",
+                    "crash_hash": "mno345",
+                    "type": "null-pointer"
+                },
+                {
+                    "date": "28-01-2025",
+                    "crash_hash": "pqr678",
+                    "type": "division-by-zero"
+                },
+                {
+                    "date": "31-01-2025",
+                    "crash_hash": "jkl012",
+                    "type": "integer-overflow"
+                },
+                {
+                    "date": "10-02-2025",
+                    "crash_hash": "stu901",
+                    "type": "buffer-overflow"
+                },
+                {
+                    "date": "20-02-2025",
+                    "crash_hash": "vwx234",
+                    "type": "race-condition"
+                },
+                {
+                    "date": "25-02-2025",
+                    "crash_hash": "ghi789",
+                    "type": "stack-overflow"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "def456",
+                    "type": "use-after-free"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                },
+                {
+                    "date": "15-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                }
+            ],
+            "coverage": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 75,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 78,
+                    "growth_rate": 4.0000000000000036
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 80,
+                    "growth_rate": 2.564102564102555
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 87,
+                    "growth_rate": 2.35294117647058
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 90,
+                    "growth_rate": 3.4482758620689724
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 92,
+                    "growth_rate": 2.2222222222222143
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 95,
+                    "growth_rate": 3.2608695652173836
+                }
+            ]
+        },
+        "openssl": {
+            "crashes": [
+                {
+                    "date": "15-01-2025",
+                    "crash_hash": "mno345",
+                    "type": "null-pointer"
+                },
+                {
+                    "date": "28-01-2025",
+                    "crash_hash": "pqr678",
+                    "type": "division-by-zero"
+                },
+                {
+                    "date": "31-01-2025",
+                    "crash_hash": "jkl012",
+                    "type": "integer-overflow"
+                },
+                {
+                    "date": "10-02-2025",
+                    "crash_hash": "stu901",
+                    "type": "buffer-overflow"
+                },
+                {
+                    "date": "20-02-2025",
+                    "crash_hash": "vwx234",
+                    "type": "race-condition"
+                },
+                {
+                    "date": "25-02-2025",
+                    "crash_hash": "ghi789",
+                    "type": "stack-overflow"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "def456",
+                    "type": "use-after-free"
+                },
+                {
+                    "date": "06-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                },
+                {
+                    "date": "15-03-2025",
+                    "crash_hash": "abc123",
+                    "type": "heap-overflow"
+                }
+            ],
+            "coverage": [
+                {
+                    "date": "15-01-2025",
+                    "coverage": 65,
+                    "growth_rate": NaN
+                },
+                {
+                    "date": "28-01-2025",
+                    "coverage": 68,
+                    "growth_rate": 4.615384615384621
+                },
+                {
+                    "date": "31-01-2025",
+                    "coverage": 70,
+                    "growth_rate": 2.941176470588225
+                },
+                {
+                    "date": "10-02-2025",
+                    "coverage": 72,
+                    "growth_rate": 2.857142857142847
+                },
+                {
+                    "date": "20-02-2025",
+                    "coverage": 75,
+                    "growth_rate": 4.166666666666674
+                },
+                {
+                    "date": "25-02-2025",
+                    "coverage": 77,
+                    "growth_rate": 2.6666666666666616
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 80,
+                    "growth_rate": 3.8961038961038863
+                },
+                {
+                    "date": "06-03-2025",
+                    "coverage": 82,
+                    "growth_rate": 2.499999999999991
+                },
+                {
+                    "date": "15-03-2025",
+                    "coverage": 85,
+                    "growth_rate": 3.658536585365857
+                }
+            ]
+        }
+    }
+}
