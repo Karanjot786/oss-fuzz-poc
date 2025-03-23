@@ -131,18 +131,6 @@ The `main.py` script serves as the CLI entry point, while the package can also b
     }
     ```
 
-## Relation to GSoC Proposal
-
-This PoC validates my approach for the OSS-Fuzz research module by prototyping:
-- **Data Collection**: Fetching metadata and handling simulated datasets.
-- **Analysis**: Processing crash and coverage stats.
-- **Visualization**: Plotting trends for multiple projects.
-
-It's a foundation for the full GSoC project, which will:
-- Replace simulated data with real OSS-Fuzz sources (e.g., ClusterFuzz, Monorail).
-- Expand analysis with features like detailed crash breakdowns and Docker-based fuzzing.
-- Enhance visualizations with interactive options.
-
 ## Development Notes
 
 - **Tests**: A test suite in `tests/test_coverage_analysis.py` uses `pytest` to verify functionality (run with `pytest` after installing `pytest`).
